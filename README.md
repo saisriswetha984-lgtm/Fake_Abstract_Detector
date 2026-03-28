@@ -6,7 +6,7 @@ A machine learning-based web application that classifies research abstracts as *
 
 ## 🚀 Live Demo
 
-https://your-streamlit-link-here.streamlit.app/
+https://fakeabstractdetector-efu2w4fe9nkz3vnpk3fo7n.streamlit.app/
 
 ---
 
@@ -55,18 +55,11 @@ Fake_Abstract_Detector/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/your-username/fake-abstract-detector.git
 2. Navigate to the project folder
 3. cd fake-abstract-detector
-4. 3. Install dependencies
-
-
+4. Install dependencies
 pip install -r requirements.txt
-
-
-4. Run the app
-
-
+5. Run the app
 streamlit run app.py
 
 
@@ -83,24 +76,8 @@ streamlit run app.py
 
 ## 📸 Sample Output
 
-*(Add your screenshot here for better presentation)*
 
----
 
----
-
-## 🧪 Dataset
-
-* Custom dataset of research abstracts
-* Labels:
-  * `0` → REAL
-  * `1` → FAKE
-
----
-
-## 📸 Sample Output
-
-*(Add your screenshot here for better presentation)*
 
 ---
 
