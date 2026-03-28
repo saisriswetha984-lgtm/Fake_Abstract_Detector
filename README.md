@@ -45,10 +45,12 @@ https://fakeabstractdetector-efu2w4fe9nkz3vnpk3fo7n.streamlit.app/
 ## 📂 Project Structure
 Fake_Abstract_Detector/
 │
-├── app.py
+├── README.md
 ├── data.csv
+├── fake_abstract_detector.py
 ├── requirements.txt
-└── README.md
+└── screenshot.png
+```
 
 ---
 
@@ -77,8 +79,6 @@ streamlit run app.py
 ## 📸 Sample Output
 ![Output](screenshot.png)
 
-
-
 ---
 
 ## 🎯 Future Improvements
@@ -102,5 +102,3 @@ streamlit run app.py
 
 Feel free to connect for feedback, suggestions, or collaboration!
 
-
-## 📂 Project Structure
