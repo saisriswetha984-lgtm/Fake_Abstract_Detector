@@ -51,9 +51,6 @@ Fake_Abstract_Detector/
 ├── requirements.txt
 └── screenshot.png
 ```
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
