@@ -43,13 +43,16 @@ https://fakeabstractdetector-efu2w4fe9nkz3vnpk3fo7n.streamlit.app/
 
 ---
 ## 📂 Project Structure
-Fake_Abstract_Detector/
+movie-recommender-system/
 │
-├── README.md
-├── data.csv
-├── fake_abstract_detector.py
+├── app.py
+├──.gitattributes
+├── screenshot.png
+├── movie_list.pkl
+├── similarity.pkl
 ├── requirements.txt
-└── screenshot.png
+└── README.md
+
 
 ## ⚙️ Installation & Setup
 
