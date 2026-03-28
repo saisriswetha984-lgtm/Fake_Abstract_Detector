@@ -50,7 +50,7 @@ Fake_Abstract_Detector/
 ├── fake_abstract_detector.py
 ├── requirements.txt
 └── screenshot.png
-```
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
